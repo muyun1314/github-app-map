@@ -328,5 +328,567 @@
     "install_type": "Installed",
     "contributor": "muyun1314",
     "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "claude.exe",
+    "product_names": [
+      "Claude Code",
+      "claude-code"
+    ],
+    "repo": "anthropics/claude-code",
+    "main_exe_path": "claude.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.103Z"
+  },
+  {
+    "exe_name": "gemini.exe",
+    "product_names": [
+      "Gemini CLI"
+    ],
+    "repo": "google-gemini/gemini-cli",
+    "main_exe_path": "gemini.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.105Z"
+  },
+  {
+    "exe_name": "opencode.exe",
+    "product_names": [
+      "OpenCode"
+    ],
+    "repo": "sst/opencode",
+    "main_exe_path": "opencode.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.105Z"
+  },
+  {
+    "exe_name": "aider.exe",
+    "product_names": [
+      "aider",
+      "Aider"
+    ],
+    "repo": "Aider-AI/aider",
+    "main_exe_path": "aider.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.105Z"
+  },
+  {
+    "exe_name": "cursor.exe",
+    "product_names": [
+      "Cursor"
+    ],
+    "repo": "getcursor/cursor",
+    "main_exe_path": "Cursor.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.105Z"
+  },
+  {
+    "exe_name": "neovim.exe",
+    "product_names": [
+      "Neovim",
+      "nvim"
+    ],
+    "repo": "neovim/neovim",
+    "main_exe_path": "bin/nvim.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "lazygit.exe",
+    "product_names": [
+      "lazygit"
+    ],
+    "repo": "jesseduffield/lazygit",
+    "main_exe_path": "lazygit.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "bat.exe",
+    "product_names": [
+      "bat"
+    ],
+    "repo": "sharkdp/bat",
+    "main_exe_path": "bat.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "fd.exe",
+    "product_names": [
+      "fd",
+      "fd-find"
+    ],
+    "repo": "sharkdp/fd",
+    "main_exe_path": "fd.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "rg.exe",
+    "product_names": [
+      "ripgrep",
+      "rg"
+    ],
+    "repo": "BurntSushi/ripgrep",
+    "main_exe_path": "rg.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "delta.exe",
+    "product_names": [
+      "delta",
+      "git-delta"
+    ],
+    "repo": "dandavison/delta",
+    "main_exe_path": "delta.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "starship.exe",
+    "product_names": [
+      "Starship"
+    ],
+    "repo": "starship/starship",
+    "main_exe_path": "starship.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "zoxide.exe",
+    "product_names": [
+      "zoxide"
+    ],
+    "repo": "ajeetdsouza/zoxide",
+    "main_exe_path": "zoxide.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "eza.exe",
+    "product_names": [
+      "eza"
+    ],
+    "repo": "eza-community/eza",
+    "main_exe_path": "eza.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "fzf.exe",
+    "product_names": [
+      "fzf"
+    ],
+    "repo": "junegunn/fzf",
+    "main_exe_path": "fzf.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "gh.exe",
+    "product_names": [
+      "GitHub CLI",
+      "gh"
+    ],
+    "repo": "cli/cli",
+    "main_exe_path": "bin/gh.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "glab.exe",
+    "product_names": [
+      "GitLab CLI",
+      "glab"
+    ],
+    "repo": "gitlab-org/cli",
+    "main_exe_path": "glab.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "cmake.exe",
+    "product_names": [
+      "CMake"
+    ],
+    "repo": "Kitware/CMake",
+    "main_exe_path": "bin/cmake.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "zig.exe",
+    "product_names": [
+      "Zig"
+    ],
+    "repo": "ziglang/zig",
+    "main_exe_path": "zig.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "deno.exe",
+    "product_names": [
+      "Deno"
+    ],
+    "repo": "denoland/deno",
+    "main_exe_path": "deno.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "bun.exe",
+    "product_names": [
+      "Bun"
+    ],
+    "repo": "oven-sh/bun",
+    "main_exe_path": "bun.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "qBittorrent.exe",
+    "product_names": [
+      "qBittorrent"
+    ],
+    "repo": "qbittorrent/qBittorrent",
+    "main_exe_path": "qbittorrent.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "FileZilla.exe",
+    "product_names": [
+      "FileZilla"
+    ],
+    "repo": "nickolaev/filezilla",
+    "main_exe_path": "filezilla.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "npiperelay.exe",
+    "product_names": [
+      "npiperelay"
+    ],
+    "repo": "jstarks/npiperelay",
+    "main_exe_path": "npiperelay.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "Helix.exe",
+    "product_names": [
+      "Helix",
+      "hx"
+    ],
+    "repo": "helix-editor/helix",
+    "main_exe_path": "hx.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "zed.exe",
+    "product_names": [
+      "Zed"
+    ],
+    "repo": "zed-industries/zed",
+    "main_exe_path": "Zed.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "sublime_text.exe",
+    "product_names": [
+      "Sublime Text"
+    ],
+    "repo": "sublimehq/sublime_text",
+    "main_exe_path": "sublime_text.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "wezterm-gui.exe",
+    "product_names": [
+      "WezTerm"
+    ],
+    "repo": "wez/wezterm",
+    "main_exe_path": "wezterm-gui.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "alacritty.exe",
+    "product_names": [
+      "Alacritty"
+    ],
+    "repo": "alacritty/alacritty",
+    "main_exe_path": "alacritty.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "kitty.exe",
+    "product_names": [
+      "kitty"
+    ],
+    "repo": "kovidgoyal/kitty",
+    "main_exe_path": "kitty.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "WindowsTerminal.exe",
+    "product_names": [
+      "Windows Terminal"
+    ],
+    "repo": "microsoft/terminal",
+    "main_exe_path": "WindowsTerminal.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "PowerToys.exe",
+    "product_names": [
+      "PowerToys",
+      "Microsoft PowerToys"
+    ],
+    "repo": "microsoft/PowerToys",
+    "main_exe_path": "PowerToys.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "Clash.Verge.exe",
+    "product_names": [
+      "Clash Verge",
+      "ClashVerge"
+    ],
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "main_exe_path": "Clash Verge.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "TrafficMonitor.exe",
+    "product_names": [
+      "TrafficMonitor"
+    ],
+    "repo": "zhongyang219/TrafficMonitor",
+    "main_exe_path": "TrafficMonitor.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "TranslucentTB.exe",
+    "product_names": [
+      "TranslucentTB"
+    ],
+    "repo": "charlesmilet/TranslucentTB",
+    "main_exe_path": "TranslucentTB.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.106Z"
+  },
+  {
+    "exe_name": "Ditto.exe",
+    "product_names": [
+      "Ditto"
+    ],
+    "repo": "sabrogden/Ditto",
+    "main_exe_path": "Ditto.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "QuickLook.exe",
+    "product_names": [
+      "QuickLook"
+    ],
+    "repo": "QL-Win/QuickLook",
+    "main_exe_path": "QuickLook.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "Bitwarden.exe",
+    "product_names": [
+      "Bitwarden"
+    ],
+    "repo": "bitwarden/clients",
+    "main_exe_path": "Bitwarden.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "1Password.exe",
+    "product_names": [
+      "1Password"
+    ],
+    "repo": "1Password/onepassword-shell-plugin",
+    "main_exe_path": "1Password.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "SumatraPDF.exe",
+    "product_names": [
+      "SumatraPDF"
+    ],
+    "repo": "sumatrapdfreader/sumatrapdf",
+    "main_exe_path": "SumatraPDF.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "sharex.exe",
+    "product_names": [
+      "ShareX"
+    ],
+    "repo": "ShareX/ShareX",
+    "main_exe_path": "ShareX.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "PotPlayerMini64.exe",
+    "product_names": [
+      "PotPlayer"
+    ],
+    "repo": "dh1011/potplayer-backup",
+    "main_exe_path": "PotPlayerMini64.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "mpc-hc64.exe",
+    "product_names": [
+      "MPC-HC"
+    ],
+    "repo": "clsid2/mpc-hc",
+    "main_exe_path": "mpc-hc64.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "mpv.exe",
+    "product_names": [
+      "mpv"
+    ],
+    "repo": "shinchiro/mpv-winbuild-cmake",
+    "main_exe_path": "mpv.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "ImageGlass.exe",
+    "product_names": [
+      "ImageGlass"
+    ],
+    "repo": "d2phap/ImageGlass",
+    "main_exe_path": "ImageGlass.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "losslesscut.exe",
+    "product_names": [
+      "LosslessCut"
+    ],
+    "repo": "mifi/lossless-cut",
+    "main_exe_path": "LosslessCut.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "OBS.exe",
+    "product_names": [
+      "OBS Studio",
+      "OBS"
+    ],
+    "repo": "obsproject/obs-studio",
+    "main_exe_path": "bin/64bit/obs64.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "handbrake.exe",
+    "product_names": [
+      "HandBrake"
+    ],
+    "repo": "HandBrake/HandBrake",
+    "main_exe_path": "HandBrake.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "Jellyfin Media Player.exe",
+    "product_names": [
+      "Jellyfin Media Player"
+    ],
+    "repo": "jellyfin/jellyfin-media-player",
+    "main_exe_path": "Jellyfin Media Player.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
+  },
+  {
+    "exe_name": "Emby Theater.exe",
+    "product_names": [
+      "Emby Theater"
+    ],
+    "repo": "MediaBrowser/Emby.Releases",
+    "main_exe_path": "Emby Theater.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:07:20.107Z"
   }
 ]
