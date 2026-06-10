@@ -220,5 +220,113 @@
     "install_type": "Installed",
     "contributor": "muyun1314",
     "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "cc-switch.exe",
+    "product_names": [
+      "CC Switch"
+    ],
+    "repo": "farion1231/cc-switch",
+    "main_exe_path": "cc-switch.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.559Z"
+  },
+  {
+    "exe_name": "claude-code-desktop.exe",
+    "product_names": [
+      "Claude Code Haha",
+      "claude-code-haha"
+    ],
+    "repo": "anthropics/claude-code",
+    "main_exe_path": "claude-code-desktop.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "codex.exe",
+    "product_names": [
+      "Codex",
+      "OpenAI Codex"
+    ],
+    "repo": "openai/codex",
+    "main_exe_path": "codex.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "codex-plus-plus.exe",
+    "product_names": [
+      "Codex++",
+      "CodexPlusPlus",
+      "codex-plus-launcher"
+    ],
+    "repo": "xianyu110/CodexPlusPlus",
+    "main_exe_path": "codex-plus-plus.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "codex-assistant.exe",
+    "product_names": [
+      "Codex Assistant"
+    ],
+    "repo": "wujfeng712-ui/Codex-Assistant",
+    "main_exe_path": "codex-assistant.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "HanaAgent.exe",
+    "product_names": [
+      "HanaAgent",
+      "hanako"
+    ],
+    "repo": "liliMozi/HanaAgent",
+    "main_exe_path": "HanaAgent.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "OpenCode.exe",
+    "product_names": [
+      "OpenCode",
+      "opencode-aidesktop"
+    ],
+    "repo": "sst/opencode",
+    "main_exe_path": "OpenCode.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "reasonix-desktop.exe",
+    "product_names": [
+      "Reasonix",
+      "reasonix"
+    ],
+    "repo": "suply/reasonix-desktop",
+    "main_exe_path": "reasonix-desktop.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
+  },
+  {
+    "exe_name": "Steam++.exe",
+    "product_names": [
+      "Steam++",
+      "Watt Toolkit",
+      "SteamTools"
+    ],
+    "repo": "BeyondDimension/SteamTools",
+    "main_exe_path": "Steam++.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T14:04:26.561Z"
   }
 ]
