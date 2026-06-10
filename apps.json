@@ -1,0 +1,224 @@
+[
+  {
+    "exe_name": "yt-dlp.exe",
+    "product_names": [
+      "yt-dlp"
+    ],
+    "repo": "yt-dlp/yt-dlp",
+    "main_exe_path": "yt-dlp.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.463Z"
+  },
+  {
+    "exe_name": "ffmpeg.exe",
+    "product_names": [
+      "ffmpeg"
+    ],
+    "repo": "BtbN/FFmpeg-Builds",
+    "main_exe_path": "bin/ffmpeg.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "ffprobe.exe",
+    "product_names": [
+      "ffprobe"
+    ],
+    "repo": "BtbN/FFmpeg-Builds",
+    "main_exe_path": "bin/ffprobe.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "v2rayN.exe",
+    "product_names": [
+      "v2rayN"
+    ],
+    "repo": "2dust/v2rayN",
+    "main_exe_path": "v2rayN.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "Clash.for.Windows.exe",
+    "product_names": [
+      "Clash for Windows"
+    ],
+    "repo": "Fndroid/clash_for_windows_pkg",
+    "main_exe_path": "Clash for Windows.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "mihomo.exe",
+    "product_names": [
+      "mihomo"
+    ],
+    "repo": "MetaCubeX/mihomo",
+    "main_exe_path": "mihomo.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "aria2c.exe",
+    "product_names": [
+      "aria2"
+    ],
+    "repo": "aria2/aria2",
+    "main_exe_path": "aria2c.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "rclone.exe",
+    "product_names": [
+      "rclone"
+    ],
+    "repo": "rclone/rclone",
+    "main_exe_path": "rclone.exe",
+    "install_type": "Portable",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "everything.exe",
+    "product_names": [
+      "Everything"
+    ],
+    "repo": "voidtools/Everything",
+    "main_exe_path": "Everything.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "obsidian.exe",
+    "product_names": [
+      "Obsidian"
+    ],
+    "repo": "obsidianmd/obsidian-releases",
+    "main_exe_path": "Obsidian.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "VSCode.exe",
+    "product_names": [
+      "Visual Studio Code",
+      "Microsoft Visual Studio Code"
+    ],
+    "repo": "microsoft/vscode",
+    "main_exe_path": "Code.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "motrix.exe",
+    "product_names": [
+      "Motrix"
+    ],
+    "repo": "agalwood/Motrix",
+    "main_exe_path": "Motrix.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "localsend.exe",
+    "product_names": [
+      "LocalSend"
+    ],
+    "repo": "localsend/localsend",
+    "main_exe_path": "localsend_app.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "PicGo.exe",
+    "product_names": [
+      "PicGo"
+    ],
+    "repo": "Molunerfinn/PicGo",
+    "main_exe_path": "PicGo.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "WeaselServer.exe",
+    "product_names": [
+      "小狼毫",
+      "Weasel"
+    ],
+    "repo": "rime/weasel",
+    "main_exe_path": "WeaselServer.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "rime_deployer.exe",
+    "product_names": [
+      "RIME"
+    ],
+    "repo": "rime/weasel",
+    "main_exe_path": "rime_deployer.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "rustup.exe",
+    "product_names": [
+      "Rustup"
+    ],
+    "repo": "rust-lang/rustup",
+    "main_exe_path": "rustup.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "cargo.exe",
+    "product_names": [
+      "Cargo"
+    ],
+    "repo": "rust-lang/cargo",
+    "main_exe_path": "cargo.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "go.exe",
+    "product_names": [
+      "Go"
+    ],
+    "repo": "golang/go",
+    "main_exe_path": "bin/go.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  },
+  {
+    "exe_name": "node.exe",
+    "product_names": [
+      "Node.js"
+    ],
+    "repo": "nodejs/node",
+    "main_exe_path": "node.exe",
+    "install_type": "Installed",
+    "contributor": "muyun1314",
+    "contributed_at": "2026-06-10T13:57:06.464Z"
+  }
+]
